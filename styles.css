@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 1000;
+    padding: 20px;
+    background-color: #00ccff;
+
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  #moodSelect {
+    padding: 5px;
+  }
+  
+  #recommendButton {
+    padding: 5px 10px;
+    margin-left: 10px;
+  }
+  
+  #recommendations {
+    margin-top: 50px;
+    text-align: left;
+  }
+
+
+  footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #000000;
+    text-align: center;
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url('music-background.jpg'); /* Update with your image path */
+    background-size: cover; /* Ensure the image covers the entire background */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-attachment: fixed; /* Keep the background image fixed while scrolling */
+    color: #943a17; /* Set text color to contrast with the background */
+  }
+  
+  
